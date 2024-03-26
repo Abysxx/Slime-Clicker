@@ -1,0 +1,17 @@
+{
+	"name": "Slime Clicker",
+	"short_name": "Slime Clicker",
+	"description": "Magic",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "landscape",
+	"background_color": "#114137",
+	"icons": [
+		{
+			"src": "icons/app_icon-256.png",
+			"sizes": "256x256",
+			"type": "image/png"
+		}
+	],
+	"theme_color": "#114137"
+}
